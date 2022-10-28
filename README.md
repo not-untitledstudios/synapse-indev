@@ -1,40 +1,29 @@
-# electron-quick-start
+# Synapse's Client (in-development)
 
-**Clone and run for a quick way to see Electron in action.**
+*Ignore the license, it comes by default with Electron. Synapse will not be open-source upon release. Current contributors can continue to make changes after that, but newer ones may not be accepted.*
 
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/latest/tutorial/quick-start) within the Electron documentation.
+**Build Synapse with us!** Fork the repository and make your changes, once done, put them into the `suggestions` branch, where we'll decide to pull it into `main`.
 
-A basic Electron application needs just these files:
+# What is Synapse?
 
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
-- `preload.js` - A content script that runs before the renderer process loads.
+Synapse is a platform for gamers to share pictures and videos and to chat and for modders to distribute their mods on a store. For games, it uses 'Communities', a place to publish mods and posts. It includes an overlay for video games and has achivements for games that don't (and for those that do!)
 
-You can learn more about each of these components in depth within the [Tutorial](https://electronjs.org/docs/latest/tutorial/tutorial-1-prerequisites).
+We want Synapse to be the best it can be. So that's why we're making it open-source, avaliable for any contributions all of you may have.
 
-## To Use
+Don't be shy, fork the repo and make your changes! We won't judge. :blush:
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-```bash
-# Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies
-npm install
-# Run the app
-npm start
-```
+# Rules
+1. Don't redistribute Synapse without permission from untitled studios (give credit)
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+2. Don't be a dickhead
 
-## Resources for Learning Electron
+3. Give constructive critisim on pull requests.
 
-- [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [Electron Fiddle](https://electronjs.org/fiddle) - Electron Fiddle, an app to test small Electron experiments
+4. Follow GitHub's [rules](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
-## License
+5. Nothing inappropriate or unrelated, thanks.
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+6. Whatever untitled studios' says is final, except in rare exceptions
+
+7. Make issue reports good with screenshots and how to reproduce the issue so we/a contributor can fix it.
